@@ -1,0 +1,9 @@
+copy/
+__pycache__/
+*.pt
+*.h
+llm/.env
+*.json
+*.jpg
+uploaded_imgs/
+*.csv
